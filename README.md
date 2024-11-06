@@ -13,9 +13,9 @@ Read [this blog post](https://thomaspark.co/2015/11/learning-css-layout-with-fle
 
 Thomas Park
 
-* [Twitter](https://twitter.com/thomashpark)
-* [Homepage](https://thomaspark.co)
-* [GitHub](https://github.com/thomaspark)
+* (https://twitter.com/thomashpark)
+* (https://thomaspark.co)
+* (https://github.com/thomaspark)
 
 ## Translators
 
