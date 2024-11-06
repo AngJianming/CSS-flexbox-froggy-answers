@@ -3,11 +3,279 @@ Flexbox Froggy
 
 Flexbox Froggy is a popular game for learning CSS flexbox. Try it out at [flexboxfroggy.com](https://flexboxfroggy.com).
 
+Question Answer 1)
+```css
+#pond {
+    display: flex;
+    justify-content: flex-end;
+}
+```
+
+</br>
+
+Question Answer 2)
+```css
+#pond {
+    display: flex;
+    justify-content: center;
+}
+```
+
+</br>
+
+Question Answer 3)
+```css
+#pond {
+    display: flex;
+    justify-content: space-around;
+}
+```
+</br>
 
 
-Read [this blog post](https://thomaspark.co/2015/11/learning-css-layout-with-flexbox-froggy/) for background on the project.
+Question Answer 4)
+```css
+#pond {
+    display: flex;
+    justify-content: space-between;
+}
+```
+</br>
 
-![FontCDN screenshot](./images/screenshot.png)
+
+Question Answer 5)
+```css
+#pond {
+    display: flex;
+    align-items: flex-end;
+}
+```
+</br>
+
+
+Question Answer 6)
+```css
+#pond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+```
+</br>
+
+
+Question Answer 7)
+```css
+#pond {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+```
+</br>
+
+
+Question Answer 8)
+```css
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+}
+```
+</br>
+
+
+Question Answer 9)
+```css
+#pond {
+    display: flex;
+    flex-direction: column;
+}
+```
+</br>
+
+
+Question Answer 10)
+```css
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+}
+```
+</br>
+
+
+Question Answer 11)
+```css
+#pond {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+```
+</br>
+
+
+Question Answer 12)
+```css
+#pond {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+```
+</br>
+
+
+Question Answer 13)
+```css
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: end;
+}
+```
+</br>
+
+
+Question Answer 14)
+```css
+#pond {
+    display: flex;
+}
+
+.yellow {
+    order: 1;
+}
+```
+</br>
+
+
+Question Answer 15)
+```css
+#pond {
+    display: flex;
+}
+
+.red {
+    order: -3;
+}
+```
+</br>
+
+
+Question Answer 16)
+```css
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    align-self: flex-end;
+}
+```
+</br>
+
+
+Question Answer 17)
+```css
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    align-self: flex-end; 
+    order: 1;
+}
+```
+</br>
+
+
+Question Answer 18)
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+}
+```
+</br>
+
+
+Question Answer 19)
+```css
+#pond {
+    display: flex;
+    flex-direction: column; 
+    flex-wrap: wrap;
+}
+```
+</br>
+
+
+Question Answer 20)
+```css
+#pond {
+    display: flex;
+    flex-flow: column wrap;
+}
+```
+</br>
+
+
+Question Answer 21)
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+```
+</br>
+
+
+Question Answer 22)
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+```
+</br>
+
+
+Question Answer 23)
+```css
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse; 
+    align-content: center;
+}
+```
+</br>
+
+
+Question Answer 24)
+```css
+#pond {
+    display: flex;
+    flex-flow: column-reverse wrap-reverse; 
+    justify-content: center; 
+    align-content: space-between;
+}
+```
+</br>
+
+
+
+Read this [blog post](https://thomaspark.co/2015/11/learning-css-layout-with-flexbox-froggy/) for background on the project.
+
+![FontCDN screenshot](/images/screenshot.png)
 
 ## Author
 
