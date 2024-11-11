@@ -1,4 +1,4 @@
-Flexbox Froggy
+CSS Flexbox Froggy Answers
 =======
 
 Flexbox Froggy is a popular game for learning CSS flexbox. Try it out at [flexboxfroggy.com](https://flexboxfroggy.com).
